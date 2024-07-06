@@ -1,3 +1,5 @@
+# already meets the requirements for exercise 6-4
+
 glossary = {
     'variable': 'a named value stored in memory',
     'list': 'a collection of items stored in a particular order',
